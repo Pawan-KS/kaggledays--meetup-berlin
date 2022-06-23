@@ -4,6 +4,8 @@
 <b>Title : </b> Open your eyes for the beauty around you
 <br>
 <b>Aim : </b> To predict a score based on how aesthetically good an image would look to a person.
+<br>
+[competition link](https://www.kaggle.com/competitions/open-your-eyes-for-the-beauty-around-you/overview)
 
 ## Method
 
