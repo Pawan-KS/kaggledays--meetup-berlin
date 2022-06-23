@@ -7,7 +7,7 @@
 
 ## Method
 
-We trained Efficientnet-B3 (from [timm](https://github.com/rwightman/pytorch-image-models) library) on the images and used the output of the model's GAP layer + meta data to train Light-GBM.
+We trained Efficientnet-B3 (from [timm](https://github.com/rwightman/pytorch-image-models) library) on the images and used the output of the model's GAP layer + meta data to train Light-GBM. <br>
 We ranked 6th in the competition with public LB score: 0.18541
 
 [Train code for Efficientnetb3](b3_training.ipynb)
