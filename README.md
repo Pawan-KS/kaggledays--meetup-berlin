@@ -14,9 +14,9 @@ We ranked 6th in the competition with public LB score: 0.18541
 
 [Train code for Efficientnetb3](b3_training.ipynb)
 
-[Train code for LGBM](lgb_training_b3)
+[Train code for LGBM](lgb_training_b3.ipynb)
 
-[Inference code](lgb-inf-b3)
+[Inference code](lgb-inf-b3.ipynb)
 
 
 </br>
